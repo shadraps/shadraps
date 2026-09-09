@@ -14,7 +14,7 @@ P.S. I'm a huge Persona fan, and bringing it up is the easiest way to get me to 
 
 **Concepts and Paradigms:** Object-Oriented Programming, Functional Programming, RESTful API
 
-## Key Project
+## Personal Project
 
 **Investment Portfolio Dashboard**
 - Engineered a full-stack investment portfolio dashboard using Java Spring Boot and React; designed a RESTful API with 5 endpoints, and Spring Data JPA entity modeling.
