@@ -8,7 +8,7 @@ I'm a Computer Science student at UNC Chapel Hill who enjoys both the theory and
 
 **Programming Languages:** Java, C, Python, JavaScript, TypeScript, C++, SQL, HTML/CSS
 
-**Frameworks and Tools:** Git, CLI, Spring Boot, Spring Web, Spring Data JPA, Node.js, React, Supabase, Maven, Vite, JUnit, GTest, pandas
+**Frameworks and Tools:** Git, CLI, Docker, Spring Boot, Spring Web, Spring Data JPA, Node.js, React, Supabase, Maven, Vite, JUnit, GTest, pandas
 
 **Concepts and Paradigms:** Object-Oriented Programming, Functional Programming, RESTful API
 
